@@ -1,5 +1,5 @@
 <h1>Bartosz Chmielecki</h1>
-<p>I started cofing in 2022</p>
+<p>I started coding in 2022</p>
 <a href=""></a>
 <!--
 **SpikedYew/SpikedYew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
