@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bartoszchmieleckikontakt@gmail.com**
 
-- My website 😌 [bartoszchmielecki.com](bartoszchmielecki.com)
+- My website 😌 (bartoszchmielecki.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
