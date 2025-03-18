@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://twitter.com/rolandspiked" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rolandspiked?logo=twitter&style=for-the-badge" alt="rolandspiked" />
+    <img src="[https://img.shields.io/twitter/follow/rolandspiked?logo=twitter&style=for-the-badge](https://www.threads.net/@bartoszchmieleckiweb)" alt="rolandspiked" />
   </a>
 </p>
 
