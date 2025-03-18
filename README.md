@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/rolandspiked" target="blank">
-    <img src="https://www.threads.net/@bartoszchmieleckiweb" alt="Bartosz Chmielecki" />
+  <a href="https://www.threads.net/@bartoszchmieleckiweb" target="blank">
+    Bartosz Chmielecki - Coding Journey
   </a>
 </p>
 
